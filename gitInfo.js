@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-const gitDefinition = "Git is a version control sysytem, it helps manage the changes made to source code made by the developers. It tracks these changes allowing multiple developers to work together non-linearly."
+const gitDefinition = "Git is a version control sysytem, it helps manage the changes made to source code made by developers. It tracks these changes allowing multiple developers to work together non-linearly."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@ const gitDefinition = "Git is a version control sysytem, it helps manage the cha
 */
 
 //CODE HERE
-const gitHubDefinition = "GitHub is a website where code and changes made to that code are hosted online.  "
+const gitHubDefinition = "GitHub is a website where code and changes made to a project are hosted online.  "
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -65,7 +65,7 @@ const gitAddCode = "git add ."
 */
 
 //CODE HERE
-const gitCommitDefinition = "git comnit saves the changes within the staging area, creating a snapshot of the current state of a project."
+const gitCommitDefinition = "git commit saves the changes within the staging area, creating a snapshot of the current state of a project."
 const gitCommitCode = "git commit -m 'initial commit'"
 
 //////////////////PROBLEM 8////////////////////
