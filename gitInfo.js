@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "Git is a version control sysytem, it helps manage the changes made to source code made by the developers. It tracks these changes allowing multiple developers to work together non-linearly."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = "GitHub is a website where code and changes made to that code are hosted online.  "
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+const gitInitDefinition = "git init initializes a new git repository, beiging the process to allow changes to be tracked later on."
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+const gitCloneDefinition = "git clone creates a local copy of a targeted repository and downloads it onto your computer. "
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+const gitStatusDefinition = "git status shows the current state of the directory being worked on, and it displays the staged changes."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+const gitAddDefinition = "git add moves the changes made to a directory to the staging area, preparing it to be committed."
+const gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@
 */
 
 //CODE HERE
-
+const gitCommitDefinition = "git comnit saves the changes within the staging area, creating a snapshot of the current state of a project."
+const gitCommitCode = "git commit -m 'initial commit'"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = "git push moves the content of a local repository into a remote repository, such as uploading local changes into a repository hosted on GitHub."
